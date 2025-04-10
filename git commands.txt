@@ -1,0 +1,11 @@
+Git config http.sslVerify false
+Git pull http.sslVerify false
+Git push http.sslVerify false
+Git clone http.sslVerify false
+git remote rm origin
+git remote add origin novo_repositório_a_ser_apontado.git
+
+
+
+//Eclipse
+clean install -U
